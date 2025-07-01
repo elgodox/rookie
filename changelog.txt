@@ -1,3 +1,11 @@
+RSL 2.35.0
+
+- Upgrade: Migrated from .NET Framework 4.5.2 to 4.8 for better performance and security
+- New: Added VS Code workspace configuration with comprehensive build tasks
+- New: Added optimized build-secure.cmd script for antivirus compatibility
+- Improvement: Better MSBuild detection and error handling in build process
+- Dev: Added tasks for Release, Debug, Clean, and Secure builds in VS Code
+
 RSL 2.34.1
 
 - Fix: Rookie crashing with "Cannto add or insert the item"
